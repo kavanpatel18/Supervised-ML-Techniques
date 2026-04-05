@@ -1,33 +1,5 @@
-<h1 align="center">Supervised Ml Techniques</h1>
+# 🤖 Supervised ML Techniques
 
-<div align="center">
-  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-informational?style=flat&logo=jupyternotebook&logoColor=white) 
-</div>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 📌 Description
-A modern, well-structured repository for Supervised Ml Techniques. 
-This project focuses on writing clean, efficient, and well-organized code.
-
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have the required environment installed for the primary language:
-- Jupyter Notebook
-
-### Installation
-Clone the repository:
-```bash
-git clone https://github.com/kavanpatel18/Supervised-ML-Techniques.git
-cd Supervised-ML-Techniques
-```
-
-## 📂 Repository Structure
-*The file structure is organized for clarity and best practices.*
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-<div align="center">
-  <br/>
-  <b>Made with ❤️ by Kavan Patel</b>
-</div>
+Deep dive notebooks focusing exclusively on structured Supervised Machine Learning techniques via statistical data frames. Contains hyper-parameter tuning loops, graphical evaluations (Matplotlib/Seaborn), and mathematical breakdown logic across Classifiers and Regressors.
